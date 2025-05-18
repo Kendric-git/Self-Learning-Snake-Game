@@ -1,7 +1,7 @@
 # Self-Learning-Snake-Game
 
 # How to Run Program
-Type into command line "pip install -e", this should install all necessary packages. Then type "python ai_snakegame.py" this will run the program.
+Type into command line "pip install -r requirements.txt", this should install all necessary packages. Then type "python ai_snakegame.py" this will run the program. To exit, simply clost the window of the game. Enjoy!
 
 
 # Project Proposal
